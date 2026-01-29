@@ -7,3 +7,5 @@
 [フィードフォワードニューラルネットワーク](https://github.com/oshimalab/information_science_2/blob/main/lect_fnn.ipynb)
 
 [畳み込みニューラルネットワーク](https://github.com/oshimalab/information_science_2/blob/main/lect_cnn.ipynb)
+
+[クラスタリング](https://github.com/oshimalab/information_science_2/blob/main/lect_clustering.ipynb)
